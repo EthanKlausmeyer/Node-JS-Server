@@ -1,0 +1,19 @@
+{
+  "name": "3-29",
+  "version": "1.0.0",
+  "main": "ExpressServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^2.29.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
+  },
+  "description": ""
+}
